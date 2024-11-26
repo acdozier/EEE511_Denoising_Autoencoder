@@ -1,6 +1,6 @@
 # To make this run, you basically just need to install numpy, matplotlib 
 # and torch (and torchvision) with cuda for the specified versions
-
+# Also Python 3.11 was used
 import torch # Torch 2.2.1+cu118
 import numpy as np # numpy 1.26.4
 import matplotlib.pyplot as plt # matplotlib 3.9.2
